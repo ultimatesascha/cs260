@@ -1,0 +1,32 @@
+html {
+    font-family: Arial;
+    background-color: skyblue;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.part1 {
+    background-color: palegoldenrod;
+    padding-bottom: 35px;
+}
+
+#mypic {
+    padding-top: 35px;
+}
+
+.centertext {
+    text-align: center;
+}
+
+#githublink {
+    margin-left: auto;
+    margin-right: auto;
+}
